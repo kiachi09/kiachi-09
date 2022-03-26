@@ -75,5 +75,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiachi09&theme=tokyonight&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiachi09&theme=tokyonight&layout=compact" />
-
-### My Skills 
