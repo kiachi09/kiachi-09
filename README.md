@@ -69,7 +69,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [1]: https://twitter.com/Kiachi5
-[3]: https://www.linkedin.com/in/dushyant-rai/
+[3]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ## What I am recently into!
 
