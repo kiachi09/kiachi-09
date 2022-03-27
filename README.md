@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dushyant Rai</h1>
-<h3 align="center">Aggressive Developer from Darjeeling</h3>
+<h3 align="center">Lazy Developer from Darjeeling</h3>
 
 - 🔭 I’m currently working on **Carbonfeedbacks**
 
