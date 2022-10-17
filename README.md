@@ -1,9 +1,9 @@
 <h1 align="center"><img src ="https://c.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"><br>I'm Dushyant Rai</h1>
 <h3 align="center">A lazy developer from Darjeeling</h3>
 
-- 🔭 I’m currently working on **Carbonfeedbacks**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Compilers**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **NIM**
 
